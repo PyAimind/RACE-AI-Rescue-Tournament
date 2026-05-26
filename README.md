@@ -99,7 +99,7 @@ This is the MVP of a larger vision: a "City of AI" where thousands of specialize
 
 ## 📄 License
 
-© [Year] Ali Valizadeh. All Rights Reserved.
+© [2026] Ali Valizadeh. All Rights Reserved.
 
 This project is licensed under the Creative Commons
 Attribution-NonCommercial-NoDerivatives 4.0 International
