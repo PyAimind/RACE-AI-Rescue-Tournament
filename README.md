@@ -98,13 +98,20 @@ JSON (maps & data)
 This is the MVP of a larger vision: a "City of AI" where thousands of specialized, layered AI agents collaborate and compete to solve real-world problems.
 
 📄 License
-MIT License – feel free to use, modify, and share.
 
 Made with a unique human-AI collaboration method:
 
 🎯 Narrator (Human): Vision, testing, approval
 
 🏗️ Engineer (ChatGPT): Architecture & prompts
+
+## 🧪 Running Tests
+
+Test files are located in the `Tests/` folder. To execute a test, copy it to the project root directory and run it with Python:
+
+```bash
+cp Tests/Test_worker.py .
+python Test_worker.py
 
 💻 Coder (DeepSeek): Raw implementation
 
