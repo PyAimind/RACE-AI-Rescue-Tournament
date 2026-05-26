@@ -1,7 +1,7 @@
 import json
 import os
 
-MAP_FOLDER = "maps"
+MAP_FOLDER = "Maps"
 
 def load_map(map_filename):
     path = os.path.join(MAP_FOLDER, map_filename)
