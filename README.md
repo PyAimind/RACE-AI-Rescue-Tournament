@@ -97,9 +97,19 @@ JSON (maps & data)
 💡 The Bigger Picture
 This is the MVP of a larger vision: a "City of AI" where thousands of specialized, layered AI agents collaborate and compete to solve real-world problems.
 
-📄 License
+## 📄 License
 
-Made with a unique human-AI collaboration method:
+© [Year] Ali Valizadeh. All Rights Reserved.
+
+This project is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International
+(CC BY-NC-ND 4.0).
+
+You are free to view, study, and learn from this code for
+personal, non-commercial purposes only. Any commercial use,
+participation in competitions, or creation of derivative
+works is strictly prohibited without explicit written
+permission from the author.
 
 🎯 Narrator (Human): Vision, testing, approval
 
